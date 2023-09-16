@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\U\\Distribuida\\phAdmin\\WebPH\\WebPH.csproj",
+      "projectUniqueName": "D:\\U\\Distribuida\\PH\\WebPH\\WebPH.csproj",
       "projectName": "WebPH",
-      "projectPath": "D:\\U\\Distribuida\\phAdmin\\WebPH\\WebPH.csproj",
+      "projectPath": "D:\\U\\Distribuida\\PH\\WebPH\\WebPH.csproj",
       "packagesPath": "C:\\Users\\alexd\\.nuget\\packages\\",
-      "outputPath": "D:\\U\\Distribuida\\phAdmin\\WebPH\\obj\\",
+      "outputPath": "D:\\U\\Distribuida\\PH\\WebPH\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

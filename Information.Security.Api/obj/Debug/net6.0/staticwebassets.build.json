@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PXzgD70TmwDcJUQfY1wDNJUnQAFpMDwpSVh6y7NHANs=",
+  "Source": "Information.Security.Api",
+  "BasePath": "_content/Information.Security.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

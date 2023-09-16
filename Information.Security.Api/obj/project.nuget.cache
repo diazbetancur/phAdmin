@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C1DUNdI5c9WeJQlVgQj7IpC570KNR2mPi/MffpXq0olCSS8EMkOhvsja4P3wcny0hx9Kr8pMag+aL78IB386UQ==",
+  "dgSpecHash": "5vUYIixDibBVLK65VdBjGmajFvkshvscH0eUb+5FaeBjTmWeEA1CtppfRkqpbIeb47Tz9eCQ8rSSdiYGBcWB5Q==",
   "success": true,
-  "projectFilePath": "D:\\U\\Distribuida\\phAdmin\\Information.Security.Api\\Information.Security.Api.csproj",
+  "projectFilePath": "D:\\U\\Distribuida\\PH\\Information.Security.Api\\Information.Security.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alexd\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\alexd\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

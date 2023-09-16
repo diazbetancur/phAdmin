@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "uwwL7ht1m2qTvUbYvz0495XDuCqYr1yrdQuHfCotzis=",
+  "Hash": "txhk87HF1j9bl07vLaghQgP9n6SO+hd4ggnafjZWooc=",
   "Source": "WebPH",
   "BasePath": "_content/WebPH",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "WebPH\\wwwroot",
       "Source": "WebPH",
-      "ContentRoot": "D:\\U\\Distribuida\\phAdmin\\WebPH\\wwwroot\\",
+      "ContentRoot": "D:\\U\\Distribuida\\PH\\WebPH\\wwwroot\\",
       "BasePath": "_content/WebPH",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\U\\Distribuida\\phAdmin\\WebPH\\obj\\Debug\\net6.0\\scopedcss\\bundle\\WebPH.styles.css",
+      "Identity": "D:\\U\\Distribuida\\PH\\WebPH\\obj\\Debug\\net6.0\\scopedcss\\bundle\\WebPH.styles.css",
       "SourceId": "WebPH",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\U\\Distribuida\\phAdmin\\WebPH\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\U\\Distribuida\\PH\\WebPH\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/WebPH",
       "RelativePath": "WebPH.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\U\\Distribuida\\phAdmin\\WebPH\\obj\\Debug\\net6.0\\scopedcss\\bundle\\WebPH.styles.css"
+      "OriginalItemSpec": "D:\\U\\Distribuida\\PH\\WebPH\\obj\\Debug\\net6.0\\scopedcss\\bundle\\WebPH.styles.css"
     },
     {
-      "Identity": "D:\\U\\Distribuida\\phAdmin\\WebPH\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebPH.bundle.scp.css",
+      "Identity": "D:\\U\\Distribuida\\PH\\WebPH\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebPH.bundle.scp.css",
       "SourceId": "WebPH",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\U\\Distribuida\\phAdmin\\WebPH\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\U\\Distribuida\\PH\\WebPH\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/WebPH",
       "RelativePath": "WebPH.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\U\\Distribuida\\phAdmin\\WebPH\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebPH.bundle.scp.css"
+      "OriginalItemSpec": "D:\\U\\Distribuida\\PH\\WebPH\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebPH.bundle.scp.css"
     },
     {
-      "Identity": "D:\\U\\Distribuida\\phAdmin\\WebPH\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "D:\\U\\Distribuida\\PH\\WebPH\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "WebPH",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\U\\Distribuida\\phAdmin\\WebPH\\wwwroot\\",
+      "ContentRoot": "D:\\U\\Distribuida\\PH\\WebPH\\wwwroot\\",
       "BasePath": "_content/WebPH",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\U\\Distribuida\\phAdmin\\WebPH\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "D:\\U\\Distribuida\\PH\\WebPH\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "WebPH",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\U\\Distribuida\\phAdmin\\WebPH\\wwwroot\\",
+      "ContentRoot": "D:\\U\\Distribuida\\PH\\WebPH\\wwwroot\\",
       "BasePath": "_content/WebPH",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\U\\Distribuida\\phAdmin\\WebPH\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "D:\\U\\Distribuida\\PH\\WebPH\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "WebPH",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\U\\Distribuida\\phAdmin\\WebPH\\wwwroot\\",
+      "ContentRoot": "D:\\U\\Distribuida\\PH\\WebPH\\wwwroot\\",
       "BasePath": "_content/WebPH",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "D:\\U\\Distribuida\\phAdmin\\WebPH\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "D:\\U\\Distribuida\\PH\\WebPH\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "WebPH",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\U\\Distribuida\\phAdmin\\WebPH\\wwwroot\\",
+      "ContentRoot": "D:\\U\\Distribuida\\PH\\WebPH\\wwwroot\\",
       "BasePath": "_content/WebPH",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "D:\\U\\Distribuida\\phAdmin\\WebPH\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "D:\\U\\Distribuida\\PH\\WebPH\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "WebPH",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\U\\Distribuida\\phAdmin\\WebPH\\wwwroot\\",
+      "ContentRoot": "D:\\U\\Distribuida\\PH\\WebPH\\wwwroot\\",
       "BasePath": "_content/WebPH",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "D:\\U\\Distribuida\\phAdmin\\WebPH\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "D:\\U\\Distribuida\\PH\\WebPH\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "WebPH",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\U\\Distribuida\\phAdmin\\WebPH\\wwwroot\\",
+      "ContentRoot": "D:\\U\\Distribuida\\PH\\WebPH\\wwwroot\\",
       "BasePath": "_content/WebPH",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "D:\\U\\Distribuida\\phAdmin\\WebPH\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "D:\\U\\Distribuida\\PH\\WebPH\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "WebPH",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\U\\Distribuida\\phAdmin\\WebPH\\wwwroot\\",
+      "ContentRoot": "D:\\U\\Distribuida\\PH\\WebPH\\wwwroot\\",
       "BasePath": "_content/WebPH",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "D:\\U\\Distribuida\\phAdmin\\WebPH\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "D:\\U\\Distribuida\\PH\\WebPH\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "WebPH",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\U\\Distribuida\\phAdmin\\WebPH\\wwwroot\\",
+      "ContentRoot": "D:\\U\\Distribuida\\PH\\WebPH\\wwwroot\\",
       "BasePath": "_content/WebPH",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "D:\\U\\Distribuida\\phAdmin\\WebPH\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "D:\\U\\Distribuida\\PH\\WebPH\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "WebPH",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\U\\Distribuida\\phAdmin\\WebPH\\wwwroot\\",
+      "ContentRoot": "D:\\U\\Distribuida\\PH\\WebPH\\wwwroot\\",
       "BasePath": "_content/WebPH",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "D:\\U\\Distribuida\\phAdmin\\WebPH\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "D:\\U\\Distribuida\\PH\\WebPH\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "WebPH",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\U\\Distribuida\\phAdmin\\WebPH\\wwwroot\\",
+      "ContentRoot": "D:\\U\\Distribuida\\PH\\WebPH\\wwwroot\\",
       "BasePath": "_content/WebPH",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "D:\\U\\Distribuida\\phAdmin\\WebPH\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "D:\\U\\Distribuida\\PH\\WebPH\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "WebPH",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\U\\Distribuida\\phAdmin\\WebPH\\wwwroot\\",
+      "ContentRoot": "D:\\U\\Distribuida\\PH\\WebPH\\wwwroot\\",
       "BasePath": "_content/WebPH",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "D:\\U\\Distribuida\\phAdmin\\WebPH\\wwwroot\\css\\site.css",
+      "Identity": "D:\\U\\Distribuida\\PH\\WebPH\\wwwroot\\css\\site.css",
       "SourceId": "WebPH",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\U\\Distribuida\\phAdmin\\WebPH\\wwwroot\\",
+      "ContentRoot": "D:\\U\\Distribuida\\PH\\WebPH\\wwwroot\\",
       "BasePath": "_content/WebPH",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\U\\Distribuida\\phAdmin\\WebPH\\wwwroot\\favicon.ico",
+      "Identity": "D:\\U\\Distribuida\\PH\\WebPH\\wwwroot\\favicon.ico",
       "SourceId": "WebPH",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\U\\Distribuida\\phAdmin\\WebPH\\wwwroot\\",
+      "ContentRoot": "D:\\U\\Distribuida\\PH\\WebPH\\wwwroot\\",
       "BasePath": "_content/WebPH",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
