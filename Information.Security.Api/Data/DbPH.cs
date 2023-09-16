@@ -1,6 +1,9 @@
-﻿namespace Information.Security.Api.Data
+﻿using Microsoft.EntityFrameworkCore;
+
+namespace Information.Security.Api.Data
 {
-    public class DbContext
+    public class DbPH : DbContext
     {
+        public DbPH (DbContextOptions<DbPH> options) : base(options) { }
     }
 }
